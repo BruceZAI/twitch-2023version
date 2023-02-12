@@ -21,5 +21,5 @@ logging:
     org.springframework.jdbc.core: DEBUG # SQL
 
 twitch:
-  client-id: gjkyw7f88vrncaf7iobxldp0or535c
-  secret: vx49a8a37p9qw2bn7jzal2mbm3lgb8
+  client-id: 
+  secret: 
