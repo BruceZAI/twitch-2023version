@@ -11,4 +11,11 @@
 * Deployed the service to AWS App Runner
 
 ***Twitch application url:***  
-https://bapwqzpabd.us-west-2.awsapprunner.com/
+https://bapwqzpabd.us-west-2.awsapprunner.com/ 
+ 
+**App Screenshot:** 
+![image](https://user-images.githubusercontent.com/41571096/222512407-5f65a54b-a6cf-435b-919f-92d8bd631467.png)
+![image](https://user-images.githubusercontent.com/41571096/222511293-44f701c0-93fb-46c9-82cf-5049e66cf1a7.png)
+![image](https://user-images.githubusercontent.com/41571096/222511520-15305e77-0cc9-4971-a359-f64c08b1fe94.png)
+![image](https://user-images.githubusercontent.com/41571096/222511708-a30139ab-d20a-4aa7-b448-966d552a3f5e.png)
+![image](https://user-images.githubusercontent.com/41571096/222511822-bd486310-988d-4ecb-8150-473e992e0f57.png)
